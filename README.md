@@ -1,9 +1,9 @@
-## BOM DIA!
+## BOM DIA! Eu me chamo Thanawã.
 
 ### Um pouco sobre mim
 <br clear="both">
 
-<img align="left" height="200" hspace="20" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Animação de programação">
+<img align="right" height="200" hspace="20" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Animação de programação">
 
 <br>
 
